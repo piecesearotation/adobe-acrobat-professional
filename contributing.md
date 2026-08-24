@@ -27,9 +27,6 @@
 
 </div>
 
-<div align="center">
-<img width="1560" height="652" alt="Adobe Acrobat Professional" src="https://github.com/user-attachments/assets/ЗАМЕНИ_НА_ТВОЮ_КАРТИНКУ" />
-</div>
 
 ---
 
