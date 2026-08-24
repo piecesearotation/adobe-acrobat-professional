@@ -21,6 +21,11 @@
 </p>
 
 <!-- КНОПКА 1 -->
+<div align="center">
+
+[![Подробнее об Adobe Acrobat Professional](https://img.shields.io/badge/Download-E53935?style=for-the-badge&logo=github)](https://github.com/piecesearotation/adobe-acrobat-professional/releases/tag/adobe-acrobat-professional-download)
+
+</div>
 
 
 ---
